@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/tracker",
+    "name": "hasnat3038/tracker",
     "description": "A Laravel Visitor Tracker",
     "keywords": [
         "tracker",
@@ -15,7 +15,7 @@
     "authors": [
         {
             "name": "Antonio Carlos Ribeiro",
-            "email": "acr@antoniocarlosribeiro.com",
+            "email": "hasnat@devsnest.net",
             "role": "Creator & Designer"
         }
     ],
